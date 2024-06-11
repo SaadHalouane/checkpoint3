@@ -1,0 +1,61 @@
+.nav {
+  background-color: black;
+  height: 50px;
+  display: flex;
+}
+
+a {
+  color: white;
+}
+.bar {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  font-size: 30px;
+}
+.logo {
+  width: 5%;
+  background-color: blue;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.burger-src {
+  width: 120px;
+}
+.subhead {
+  background-color: grey;
+  font-size: 40px;
+  display: flex;
+  justify-content: flex-end;
+  height: 66.3px;
+}
+.sliderimg{
+    width: 50%;
+    height: 500px;
+}
+.sliderimg2{
+    width: 50%;
+    height: 500px;
+}
+.slider{
+    display: flex;
+}
+.sides{
+    display: flex;
+    justify-content: space-around;
+}
+.tapas{
+    width: 300px;
+    height: 300px;
+}
+.milkshake{
+    width: 300px;
+    height: 300px;
+}
+.cheesecake{
+    width: 300px;
+    height: 300px;
+}
